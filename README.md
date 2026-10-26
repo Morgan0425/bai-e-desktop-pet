@@ -30,8 +30,8 @@
 ## 下载与运行
 
 - 从本仓库 Releases 下载对应系统的 ZIP。
-- macOS：解压 `银灰发少年桌宠-macOS.zip`，打开应用。首次若被系统拦截，请在“系统设置 → 隐私与安全性”中选择仍要打开。需要 macOS 13 或更新版本。
-- Windows：解压 `银灰发少年桌宠-Windows.zip`，双击 `Start-Silver-Pet.bat`。需要 Windows 10 或 Windows 11。
+- macOS：解压 `SilverPet-macOS.zip`，打开应用。首次若被系统拦截，请在“系统设置 → 隐私与安全性”中选择仍要打开。需要 macOS 13 或更新版本。
+- Windows：解压 `SilverPet-Windows.zip`，双击 `Start-Silver-Pet.bat`。需要 Windows 10 或 Windows 11。
 
 ## 从源码构建
 
