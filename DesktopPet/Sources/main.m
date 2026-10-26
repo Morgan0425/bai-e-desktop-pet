@@ -329,7 +329,7 @@ static OSStatus HotKeyHandler(EventHandlerCallRef nextHandler, EventRef event, v
     EventHotKeyID quitID = {'DPet', 1}, hideID = {'DPet', 2}; RegisterEventHotKey(kVK_ANSI_Q, controlKey | optionKey, quitID, GetApplicationEventTarget(), 0, &_quitHotKey); RegisterEventHotKey(kVK_ANSI_H, controlKey | optionKey, hideID, GetApplicationEventTarget(), 0, &_hideHotKey);
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wdeprecated-declarations"
-    NSUserNotification *note = [[NSUserNotification alloc] init]; note.title = @"银灰发少年桌宠已启动"; note.informativeText = @"⌃⌥H 隐藏/显示 · ⌃⌥Q 随时退出"; [NSUserNotificationCenter.defaultUserNotificationCenter deliverNotification:note];
+    NSUserNotification *note = [[NSUserNotification alloc] init]; note.title = @"白厄桌宠已启动"; note.informativeText = @"⌃⌥H 隐藏/显示 · ⌃⌥Q 随时退出"; [NSUserNotificationCenter.defaultUserNotificationCenter deliverNotification:note];
 #pragma clang diagnostic pop
 }
 - (void)togglePet { if (self.window.visible) [self.window orderOut:nil]; else [self.window orderFrontRegardless]; }

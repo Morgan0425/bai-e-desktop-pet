@@ -4,11 +4,11 @@
 <dict>
   <key>CFBundleExecutable</key><string>SilverPet</string>
   <key>CFBundleIdentifier</key><string>com.local.silverpet</string>
-  <key>CFBundleName</key><string>银灰发少年桌宠</string>
-  <key>CFBundleDisplayName</key><string>银灰发少年桌宠</string>
+  <key>CFBundleName</key><string>白厄桌宠</string>
+  <key>CFBundleDisplayName</key><string>白厄桌宠</string>
   <key>CFBundlePackageType</key><string>APPL</string>
-  <key>CFBundleShortVersionString</key><string>1.3</string>
-  <key>CFBundleVersion</key><string>4</string>
+  <key>CFBundleShortVersionString</key><string>1.3.1</string>
+  <key>CFBundleVersion</key><string>5</string>
   <key>LSMinimumSystemVersion</key><string>13.0</string>
   <key>LSUIElement</key><true/>
   <key>NSHighResolutionCapable</key><true/>

@@ -11,8 +11,8 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "WindowsPet"
 RESOURCES = ROOT / "DesktopPet" / "Resources"
-PACKAGE = ROOT / "dist" / "银灰发少年桌宠-Windows"
-ARCHIVE = ROOT / "dist" / "银灰发少年桌宠-Windows.zip"
+PACKAGE = ROOT / "dist" / "白厄桌宠-Windows"
+ARCHIVE = ROOT / "dist" / "BaiE-Windows.zip"
 
 
 def main() -> None:

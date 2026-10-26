@@ -1,9 +1,9 @@
-银灰发少年桌宠 Windows 版
+白厄桌宠 Windows 版
 ======================
 
 系统要求：Windows 10 或 Windows 11
 
-启动：双击“Start-Silver-Pet.bat”
+启动：双击“Start-BaiE-Pet.bat”
 
 操作：
 - 鼠标悬停：疑问动画，持续悬停可能害羞

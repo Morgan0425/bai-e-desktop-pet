@@ -67,7 +67,7 @@ $script:ClosedEyes.EndInit()
 $script:ClosedEyes.Freeze()
 
 $window = [System.Windows.Window]::new()
-$window.Title = "银灰发少年桌宠"
+$window.Title = "白厄桌宠"
 $window.Width = 330
 $window.Height = 260
 $window.WindowStyle = [System.Windows.WindowStyle]::None

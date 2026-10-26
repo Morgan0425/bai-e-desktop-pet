@@ -5,13 +5,13 @@ ROOT="${0:A:h}"
 cd "$ROOT"
 python3 tools/process_sprites.py
 
-APP="dist/银灰发少年桌宠.app"
-ARCHIVE="dist/银灰发少年桌宠-macOS.zip"
+APP="dist/白厄桌宠.app"
+ARCHIVE="dist/BaiE-macOS.zip"
 CONTENTS="$APP/Contents"
-if [[ "$APP" == "dist/银灰发少年桌宠.app" ]]; then
+if [[ "$APP" == "dist/白厄桌宠.app" ]]; then
   rm -rf "$APP"
 fi
-if [[ "$ARCHIVE" == "dist/银灰发少年桌宠-macOS.zip" ]]; then
+if [[ "$ARCHIVE" == "dist/BaiE-macOS.zip" ]]; then
   rm -f "$ARCHIVE"
 fi
 mkdir -p "$CONTENTS/MacOS" "$CONTENTS/Resources/Frames"
