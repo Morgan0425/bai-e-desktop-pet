@@ -1,0 +1,6 @@
+DesktopPet/Resources/
+dist/
+github-export/
+**/__pycache__/
+*.pyc
+.DS_Store
